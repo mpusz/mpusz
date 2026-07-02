@@ -30,8 +30,8 @@ made Poland a P-member of the ISO C++ Committee with voting rights.
 ### Talks
 
 50+ talks at CppCon, C++Now, and ACCU, plus keynotes at CoreHard and using std::cpp.
-*Supercharge Your C++ Project* won Best Talk at using std::cpp 2026 and is becoming a
-Meeting C++ 2026 keynote.
+*[Supercharge Your C++ Project](https://www.youtube.com/watch?v=DWXlyOd_z88)* won Best Talk at
+using std::cpp 2026 and is becoming a Meeting C++ 2026 keynote.
 
 ### Elsewhere
 
