@@ -1,4 +1,4 @@
-### Hi, I am Mateusz Pusz
+# Hi, I am Mateusz Pusz
 
 Principal C++ Architect based in Gdańsk, Poland, with 20+ years specializing in
 zero-overhead abstractions and low-latency systems. I work as a C++ trainer,
@@ -9,7 +9,7 @@ consultant, and international keynote speaker.
   compile-time physical-quantities-and-units library for C++.
 - Founder of **[Train IT](https://train-it.eu)**, where I have trained 1000+ engineers in modern C++.
 
-### What I am building
+## What I am building
 
 **[mp-units](https://github.com/mpusz/mp-units)** brings compile-time dimensional analysis and
 unit safety to C++ with zero runtime overhead: wrong programs stop compiling instead of feeding
@@ -27,13 +27,13 @@ quantities-and-units library for C++.
 I also help represent Poland in the ISO process: I co-founded PKN Subcommittee 331, which in 2018
 made Poland a P-member of the ISO C++ Committee with voting rights.
 
-### Talks
+## Talks
 
 50+ talks at CppCon, C++Now, and ACCU, plus keynotes at CoreHard and using std::cpp.
 *[Supercharge Your C++ Project](https://www.youtube.com/watch?v=DWXlyOd_z88)* won Best Talk at
 using std::cpp 2026 and is becoming a Meeting C++ 2026 keynote.
 
-### Elsewhere
+## Elsewhere
 
 - Papers: <https://mpusz.github.io/wg21-papers/>
 - Training: <https://train-it.eu>
