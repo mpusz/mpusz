@@ -16,15 +16,16 @@ unit safety to C++ with zero runtime overhead: wrong programs stop compiling ins
 garbage downstream. It is the reference implementation behind my effort to standardize a
 quantities-and-units library for C++.
 
-- **P3045 (Quantities and Units Library)**, the C++29 proposal I lead, cleared LEWG design review
-  with strong consensus. Canonical, always-current list of my papers: <https://mpusz.github.io/wg21-papers/>.
-- **P0919 / P0920** (heterogeneous lookup for unordered containers) were accepted into **C++20**.
+- **[P3045](https://wg21.link/p3045) (Quantities and Units Library)**, the C++29 proposal I lead,
+  cleared LEWG design review with strong consensus. Canonical, always-current list of my papers:
+  <https://mpusz.github.io/wg21-papers/>.
+- **[P0919](https://wg21.link/p0919) / [P0920](https://wg21.link/p0920)** (heterogeneous lookup for
+  unordered containers) were accepted into **C++20**.
 - I contributed to the **MISRA C++:2023** safety-critical coding guidelines.
 - **[mp-coro](https://github.com/mpusz/mp-coro)** is my C++20 coroutine library, used in my concurrency training.
 
 I also help represent Poland in the ISO process: I co-founded PKN Subcommittee 331, which in 2018
-made Poland a P-member of the ISO C++ Committee with voting rights, and I provide services to the
-C++ Alliance.
+made Poland a P-member of the ISO C++ Committee with voting rights.
 
 ### Talks
 
